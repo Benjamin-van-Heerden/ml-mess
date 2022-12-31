@@ -1,1 +1,2 @@
 *.tar
+tensorboard_logs/
