@@ -1,2 +1,4 @@
 *.tar
 tensorboard_logs/
+datasets/
+saved_models/  
